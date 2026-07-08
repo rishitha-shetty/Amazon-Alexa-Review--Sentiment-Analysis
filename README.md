@@ -1,4 +1,4 @@
-able insights into user satisfaction, product quality, and areas for improvement. Manually analyzing thousands of reviews is time-consuming and often impractical. This project applies Natural Language Processing (NLP) and Machine Learning techniques to automatically classify Amazon Alexa product reviews based on customer sentiment.
+ This project applies Natural Language Processing (NLP) and Machine Learning techniques to automatically classify Amazon Alexa product reviews based on customer sentiment.
 
 The project demonstrates a complete machine learning workflow, beginning with data exploration and text preprocessing, followed by feature engineering, model development, evaluation, and result analysis.
 # Amazon Alexa Review Sentiment Analysis
